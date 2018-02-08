@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.supermoon.sdmandroiddocs.MainActivity">
+
+    <Button
+        android:id="@+id/btn01"
+        android:text="01. Android 이해하기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn02"
+        android:text="02. Layout 처리하기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn03"
+        android:text="03. Libary 이용하기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn04"
+        android:text="04. DataBase 활용하기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn05"
+        android:text="05. Network 연동하기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn06"
+        android:text="06. Design Pattern 적용하기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</android.support.constraint.ConstraintLayout>
